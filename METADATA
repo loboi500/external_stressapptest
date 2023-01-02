@@ -1,15 +1,3 @@
-name: "stressapptest"
-description: "Stressful Application Test - userspace memory and IO test"
-third_party {
-  url {
-    type: GIT
-    value: "https://github.com/stressapptest/stressapptest.git"
-  }
-  version: "v1.0.9"
-  license_type: NOTICE
-  last_upgrade_date {
-    year: 2020
-    month: 4
-    day: 9
-  }
-}
+version https://git-lfs.github.com/spec/v1
+oid sha256:432318ad837a169c9db9a591d6ea74e8dc30e6f0f748d3aeb7baba7789747483
+size 309
